@@ -9,6 +9,12 @@ It:
 - aggressively compresses images
 - builds PDF and post-compresses with Ghostscript
 
+## Before / After
+
+| Before | After |
+|---|---|
+| ![Before](assets/IMG_2155_before.jpg) | ![After](assets/IMG_2155.jpg) |
+
 ## Prerequisites
 
 Install system tools:
