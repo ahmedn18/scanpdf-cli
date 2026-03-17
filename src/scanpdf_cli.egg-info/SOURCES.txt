@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/scanpdf/__init__.py
+src/scanpdf/cli.py
+src/scanpdf/preprocess.py
+src/scanpdf_cli.egg-info/PKG-INFO
+src/scanpdf_cli.egg-info/SOURCES.txt
+src/scanpdf_cli.egg-info/dependency_links.txt
+src/scanpdf_cli.egg-info/entry_points.txt
+src/scanpdf_cli.egg-info/requires.txt
+src/scanpdf_cli.egg-info/top_level.txt

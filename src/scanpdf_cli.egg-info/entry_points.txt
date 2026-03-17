@@ -1,0 +1,3 @@
+[console_scripts]
+scanpdf = scanpdf.cli:main
+scanpdf-preprocess = scanpdf.preprocess:main
