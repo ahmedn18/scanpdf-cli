@@ -1,4 +1,4 @@
-# scanpdf-cli
+# scanpdf-cli (currently supported in macOS/Linux)
 
 `scanpdf-cli` turns photos of handwritten pages into cleaner, compressed PDFs.
 
