@@ -13,7 +13,7 @@ It:
 
 | Before | After |
 |---|---|
-| ![Before](assets/IMG_2155_before.jpg) | ![After](assets/IMG_2155.jpg) |
+| ![Before](assets/IMG_2155_before.jpg) | ![After](assets/IMG_2155_after.jpg) |
 
 ## Prerequisites
 
