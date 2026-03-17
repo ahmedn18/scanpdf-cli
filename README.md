@@ -30,7 +30,7 @@ Install Python deps through package install (`opencv-python`, `numpy` are in `py
 From GitHub:
 
 ```bash
-pipx install git+https://github.com/<owner>/<repo>.git
+pipx install git+https://github.com/ahmedn18/scanpdf-cli.git
 ```
 
 From local checkout:
